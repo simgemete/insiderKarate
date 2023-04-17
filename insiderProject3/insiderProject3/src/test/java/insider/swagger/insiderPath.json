@@ -1,0 +1,38 @@
+{"hayvanEklemeRequest": {
+"id": 5,
+"category": {
+"id": 0,
+"name": "string"
+},
+"name": "karabaş",
+"photoUrls": [
+"string"
+],
+"tags": [
+{
+"id": 0,
+"name": "string"
+}
+],
+"status": "sold"
+},
+"hayvanGuncelleme": {
+  "id": 7,
+  "category": {
+    "id": 0,
+    "name": "string"
+  },
+  "name": "duman",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "pending"
+}}
+
+
